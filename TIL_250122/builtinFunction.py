@@ -56,3 +56,6 @@ print(round(5.1))
 # 정렬 == sort
 print(sorted([0, 1, -2 , 3, 6]))
 
+
+
+
